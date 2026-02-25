@@ -15,6 +15,7 @@ a {
 
 a:hover {
     font-weight: bold;
+    text-decoration: underline;
 }
 
 nav {
@@ -24,7 +25,8 @@ nav {
 }
 
 nav a {
-    color: #ffffff;
+    color: #525252;
+    text-decoration: none;
 }
 
     .evenrow {
