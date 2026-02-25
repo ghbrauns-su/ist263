@@ -18,9 +18,9 @@ a:hover {
 }
 
 nav {
-    font-size: large;
+    font-size: 2em;
     background-color: #ffffff;
-    padding: 2em;
+    padding: 15px;
 }
 
 nav a {
