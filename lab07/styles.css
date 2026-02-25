@@ -28,6 +28,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    text-decoration: none;
+}
+
     .evenrow {
     background-color: lightgray;
 
