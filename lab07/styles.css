@@ -23,6 +23,10 @@ nav {
     text-align: center;
 }
 
+nav a {
+    color: #ffffff;
+}
+
     .evenrow {
     background-color: lightgray;
 
